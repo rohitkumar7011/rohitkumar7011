@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rohit Kumar
+- 👋 Hi, I’m Rohit Kumar and I am pursuing my B.tech from Compter Science From R.D.Engineering College, Gzb.. 
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning DSA
 
